@@ -1,6 +1,8 @@
 # 《Apex Agent 智能体用户手册》
 
-![image-20250813143841863](《Apex Agent 智能体用户手册》.assets/agent.png\agent.png)
+![image-20250813143841863](《Apex Agent 智能体用户手册》.assets/agent.png/agent.png)
+
+
 **版本：V2.13.0**
 **最后更新：2025年8月**
 
