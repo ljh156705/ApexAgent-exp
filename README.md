@@ -1,7 +1,6 @@
 # 《Apex Agent 智能体用户手册》
 
-《Apex Agent 智能体用户手册》.assets/agent.png
-
+![image-20250813143841863](《Apex Agent 智能体用户手册》.assets/agent.png\agent.png)
 **版本：V2.13.0**
 **最后更新：2025年8月**
 
@@ -137,7 +136,7 @@ Apex Agent 的所有工作都遵循一个核心的闭环循环模式，这构成
 
 当您双击软件启动 Apex Agent 时，首先在电脑屏幕右上角上显示 Apex Agent 的 LOGO 图标挂件。双击该图标可展开系统主界面，界面分为左右两部分；再次双击则可收起主界面，避免遮挡屏幕，呈现类似桌面挂件的效果。
 
-![image-20250813143841863](C:\Users\ljh15\AppData\Roaming\Typora\typora-user-images\image-20250813143841863.png)
+![image-20250813143841863](《Apex Agent 智能体用户手册》.assets/agent.png\image-20250813143841863.png)
 
 **左侧面板：输入与控制区**
 
